@@ -9,10 +9,14 @@ Publicly available on Kuggle.com
 Project Overview
 
 Compared the number of movies vs. TV shows available on Netflix
+![alt text](visuals/type_count.png)
 
 Analyzed how much content is added each year (with clear growth trends)
+![alt text](visuals/yearly_trend.png)
+
 
 Identified the most common genres featured on the platform
+![alt text](visuals/top_genres.png)
 
 
 
