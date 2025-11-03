@@ -1,6 +1,10 @@
 This project explores how Netflix content has evolved over time and highlights key trends on the platform. I mainly used Pandas, Matplotlib, and Seaborn, with some SQL for validation and aggregation.
 
 
+Dataset source: 
+
+Publicly available on Kuggle.com
+
 
 Project Overview
 
